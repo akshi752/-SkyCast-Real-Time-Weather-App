@@ -20,7 +20,5 @@ A simple React.js weather application that shows real-time weather data for any 
 
 ---
 
-## ▶️ Run Locally
-```bash
-npm install
-npm start
+## Live
+sky-cast-real-time-weather-qrqb8muvr-akshita-garg-s-projects.vercel.app
