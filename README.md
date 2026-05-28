@@ -21,4 +21,4 @@ A simple React.js weather application that shows real-time weather data for any 
 ---
 
 ## Live
-sky-cast-real-time-weather-qrqb8muvr-akshita-garg-s-projects.vercel.app
+[sky-cast-real-time-weather-qrqb8muvr-akshita-garg-s-projects.vercel.app](https://sky-cast-real-time-weather-awtdtbjc4-akshita-garg-s-projects.vercel.app/)
