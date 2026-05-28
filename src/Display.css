@@ -1,0 +1,10 @@
+.Display{
+justify-content:center;
+display:flex;
+}
+.cityicon{
+    display:flex;
+
+    justify-content: center;
+    align-items: center;;
+}

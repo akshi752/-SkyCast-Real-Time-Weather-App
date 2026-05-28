@@ -1,0 +1,11 @@
+.weatherApp{
+  font-family: "Pacifico", cursive;
+  text-align:center;
+  
+  
+}
+.name{
+  display:flex;
+  justify-content: center;
+  align-items: baseline;
+}
